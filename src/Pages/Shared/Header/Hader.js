@@ -14,7 +14,7 @@ const Hader = () => {
                     <Nav.Link href="#features">Features</Nav.Link>
                     <Nav.Link href="#pricing">Pricing</Nav.Link>
                 </Nav>
-            </>
+            </Container>
         </Navbar>
     );
 };
